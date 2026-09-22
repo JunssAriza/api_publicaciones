@@ -6,7 +6,7 @@ Proyecto de diagnóstico y depuración en React.
 JSONPlaceholder
 
 ## Objetivo del ejercicio
-El proyecto compila y se ejecuta, pero contiene errores funcionales deliberados en la lógica principal.
+El proyecto compila y se ejecuta, pero contiene errores funcionales deliberados en la lógica principal
 
 ### Comportamiento esperado
 - Mostrar publicaciones.
